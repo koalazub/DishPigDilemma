@@ -1,0 +1,13 @@
+Begin Object Class=MaterialInstanceConstant Name="KoaLava"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'/Game/Externals/Lava.Lava'
+   ScalarParameterValues(0)=(ParameterName="RefractionDepthBias")
+   ReferencedTextureGuids(0)=30921FB94177389F3F3718BA51EA773D
+   ReferencedTextureGuids(1)=4809767C6A41FBFEE2D1DD9E7BE5EBD2
+   ReferencedTextureGuids(2)=CD87BBF7494C920ACA25D7A133975C73
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=924DEBF0A9475177C3ADF6BA94EC6C29
+End Object
